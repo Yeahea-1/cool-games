@@ -7,3 +7,7 @@
 body {
     background-color: rgb(208, 253, 255);
 }
+
+hr {
+    border: 2px solid rgb(149, 204, 255);
+}
