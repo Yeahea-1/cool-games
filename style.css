@@ -14,5 +14,5 @@ body {
 }
 
 hr {
-    border: 2px solid rgb(149, 204, 255);
+    border: 2px dashed rgb(149, 204, 255);
 }
