@@ -16,3 +16,12 @@ body {
 hr {
     border: 2px dashed rgb(149, 204, 255);
 }
+
+.center {
+    margin: auto;
+    width: 75%;
+    background-color: rgb(156, 207, 255);
+    outline: solid;
+    outline-width: 0.6em;
+    outline-color: rgb(32, 136, 226);
+}
